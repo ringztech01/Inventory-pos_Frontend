@@ -46,12 +46,12 @@ const data = {
     },
     {
       title: "Products",
-      url: "/dashboard/product",
+      url: "/dashboard/products",
       icon: IconPackage,
     },
     {
       title: "Sales",
-      url: "/dashboard/sale",
+      url: "/dashboard/sales",
       icon: IconShoppingCart,
     },
   
